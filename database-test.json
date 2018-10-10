@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Smith",
+    "age": 20,
+    "gender": "male",
+    "race": "caucasian",
+    "dob": "1998-10-01T04:00:00.000Z"
+  },
+  {
+    "name": "Johnson",
+    "age": 18,
+    "gender": "female",
+    "race": "african american",
+    "dob": "2000-10-06T04:00:00.000Z"
+  },
+  {
+    "name": "Freeman",
+    "age": 19,
+    "gender": "male",
+    "race": "asian",
+    "dob": "1999-01-12T05:00:00.000Z"
+  },
+  {
+    "name": "Greenberg",
+    "age": 21,
+    "gender": "male",
+    "race": "latinx",
+    "dob": "1997-04-03T05:00:00.000Z"
+  },
+  {
+    "name": "Goldsmith",
+    "age": 22,
+    "gender": "male",
+    "race": "caucasian",
+    "dob": "1996-05-20T04:00:00.000Z"
+  }
+]
